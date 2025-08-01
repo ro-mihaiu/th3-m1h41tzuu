@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">I'm Mihai, originated in Romania.<br>I'm just a student learning C++ at the moment.</p>
+<p align="center">I'm Mihai, originated in Romania.<br>I'm just a student learning C++ at the moment.<br>Hope we can discuss projects together!</p>
 
 ###
 
