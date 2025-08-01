@@ -39,9 +39,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=th3-m1h41tzuu&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=th3-m1h41tzuu&radius=16&theme=github-dark&area=false&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=th3-m1h41tzuu&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ro-mihaiu&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ro-mihaiu&radius=16&theme=github-dark&area=false&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=ro-mihaiu&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
